@@ -14,11 +14,12 @@ body {
 .header {
   color: #ffffff;
   margin: auto;
-  font-size: 2em;
+  /*font-size: 2em;*/
   background: linear-gradient(60deg, red, orange);
   width: -webkit-fill-available;
   display: flex;
   justify-content: center;
+  min-width: 100vw;
 }
 main {
   flex-grow: 1;
