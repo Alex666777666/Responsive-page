@@ -70,7 +70,7 @@ main {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  width: 97px;
+  font-size: large;
 }
 .nav-list-link {
   color: #ffffff;
