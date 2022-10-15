@@ -70,11 +70,11 @@ main {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-size: large;
 }
 .nav-list-link {
   color: #ffffff;
   min-width: 100%;
   padding-left: 0.5em;
   text-decoration: auto;
+  margin-left: 10px;
 }
