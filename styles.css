@@ -37,7 +37,7 @@ main {
   width: 20%;
 }
 .section__header {
-  padding: 0.5em;
+  /*padding: 0.5em;*/
   width: 60%;
   font-size: 5vw;
   display: flex;
