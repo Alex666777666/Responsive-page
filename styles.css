@@ -38,7 +38,7 @@ main {
   width: 20%;
 }
 .section__header {
-  /*padding: 0.5em;*/
+  padding: 0.5em;
   width: 60%;
   font-size: 5vw;
   display: flex;
@@ -57,7 +57,6 @@ main {
   width: 60%;
   padding: 0.5em;
   margin: auto;
-  margin-bottom: 195px;
 }
 .css-units {
   color: #8b0000;
@@ -83,4 +82,10 @@ main {
   min-width: 100%;
   padding-left: 0.5em;
   text-decoration: auto;
+}
+p {
+  padding: 0.5em;
+}
+units-list {
+  padding: 0.5em;
 }
