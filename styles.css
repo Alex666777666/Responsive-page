@@ -38,9 +38,9 @@ body {
   width: 20%;
 }
 .section__header {
-  width: 60%;
+  /* width: 60%; */
   font-size: 5vw;
-
+  text-align: center;
   margin: auto;
 }
 .news {
