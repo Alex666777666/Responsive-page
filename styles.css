@@ -38,13 +38,9 @@ body {
   width: 20%;
 }
 .section__header {
-  padding: 0.5em;
   width: 60%;
   font-size: 5vw;
-  /*display: flex;
-  align-items: center;
-  justify-content: center;
-  align-content: center;*/
+
   margin: auto;
 }
 .news {
@@ -53,7 +49,7 @@ body {
 }
 .section {
   font-size: 1.25em;
-  line-height: 1.75em;
+
   width: 60%;
   padding: 0.5em;
   margin: auto;
@@ -83,4 +79,7 @@ body {
   min-width: 100%;
   padding-left: 0.5em;
   text-decoration: auto;
+}
+.css-units {
+  line-height: 1.75em;
 }
