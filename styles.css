@@ -71,19 +71,16 @@ body {
   height: 2em;
   color: #ffffff;
   margin-bottom: 0.5em;
-  /*display: block;*/
-  /*white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;*/
 }
 .nav-list-link {
   color: #ffffff;
   min-width: 100%;
   padding-left: 0.5em;
   text-decoration: auto;
-  white-space: nowrap;
-  overflow: hidden;
   text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  display: block;
 }
 .css-units {
   line-height: 1.75em;
