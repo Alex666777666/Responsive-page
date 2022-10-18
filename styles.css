@@ -49,10 +49,10 @@ body {
 }
 .section {
   font-size: 1.25em;
-width: auto;
+  width: auto;
   width: 60%;
   padding: 0.5em;
-  margin-top: 2vh;
+  margin-top: 3vh;
   height: 100%;
 }
 .css-units {
