@@ -9,7 +9,7 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 50vh;
 }
 .header {
   color: #ffffff;
@@ -57,7 +57,7 @@ body {
   width: 60%;
   padding: 0.5em;
   margin: auto;
-  height: 1000px;
+  height: 100vh;
 }
 .css-units {
   color: #8b0000;
