@@ -38,10 +38,9 @@ body {
   width: 20%;
 }
 .section__header {
-  /* width: 60%; */
   font-size: 5vw;
   text-align: center;
-  margin: auto;
+  /* margin: auto; */
 }
 .news {
   padding: 0.5em;
@@ -52,8 +51,9 @@ body {
   width: auto;
   width: 60%;
   padding: 0.5em;
-  margin-top: 3vh;
+  /* margin-top: 3vh; */
   height: 100%;
+  line-height: 1.75em;
 }
 .css-units {
   color: #8b0000;
